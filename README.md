@@ -1,11 +1,11 @@
 # 💫 About Me:
 👋 Hi there! I'm Newton Frank.<br>
-🔭 Building responsive web apps & exploring blockchain for healthcare data at SmartChakra.
-🌱 Learning DevOps (Kubernetes, Docker) & AWS cloud architecture.
-👯 Seeking open-source collaboration in React, Node.js, or blockchain.
-🤔 Need help optimising smart contracts & scaling blockchain systems.
-💬 Ask me about C/C++, Python, JavaScript, React, cloud, or blockchain!
-📫 Reach me: newtonfrank@outlook.in | +91 80735 42843 | <a href= "linkedin.com/newtonfrank">LinkedIn</a>
+🔭 Building responsive web apps & exploring blockchain for healthcare data at SmartChakra.<br>
+🌱 Learning DevOps (Kubernetes, Docker) & AWS cloud architecture.<br>
+👯 Seeking open-source collaboration in React, Node.js, or blockchain.<br>
+🤔 Need help optimising smart contracts & scaling blockchain systems.<br>
+💬 Ask me about C/C++, Python, JavaScript, React, cloud, or blockchain!<br>
+📫 Reach me: newtonfrank@outlook.in | +91 80735 42843 | <a href= "linkedin.com/newtonfrank">LinkedIn</a><br>
 
 
 
