@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Newton Frank.
+👋 Hi there! I'm Newton Frank.<br>
 🔭 Building responsive web apps & exploring blockchain for healthcare data at SmartChakra.
 🌱 Learning DevOps (Kubernetes, Docker) & AWS cloud architecture.
 👯 Seeking open-source collaboration in React, Node.js, or blockchain.
