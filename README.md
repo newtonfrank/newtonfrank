@@ -4,7 +4,7 @@
 🌱 Learning DevOps (Kubernetes, Docker) & AWS cloud architecture.<br>
 👯 Seeking open-source collaboration in React, Node.js, or blockchain.<br>
 💬 Ask me about C/C++, Python, JavaScript, React, cloud, or blockchain!<br>
-📫 Reach me: newtonfrank@outlook.in | +91 80735 42843 | <a href= "linkedin.com/newtonfrank">LinkedIn</a><br>
+📫 Reach me: newtonfrank@outlook.in | <a href= "linkedin.com/newtonfrank">LinkedIn</a><br>
 
 
 
