@@ -91,12 +91,13 @@ I am a developer who loves building high-performance web platforms and blockchai
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=newtonfrank&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats graph"  />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=newtonfrank&theme=dark&hide_border=true" height="180" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=newtonfrank&theme=dark&hide_border=true&show_icons=true" height="180" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=newtonfrank&theme=dark&hide_border=true" height="180" alt="streak graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newtonfrank&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newtonfrank&theme=dark&hide_border=true&layout=compact" height="180" alt="languages graph" />
 </div>
 
 ### 🏆 Trophies
