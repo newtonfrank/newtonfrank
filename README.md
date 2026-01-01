@@ -91,21 +91,26 @@ I am a developer who loves building high-performance web platforms and blockchai
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=newtonfrank&theme=dark&hide_border=true&show_icons=true&include_all_commits=false&count_private=false" height="180" alt="stats graph" />
-  
-  <img src="https://streak-stats.demolab.com?user=newtonfrank&theme=dark&hide_border=true" height="180" alt="streak graph" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=newtonfrank&theme=radical" alt="profile details" />
+
+  <br><br>
+
+  <img src="https://streak-stats.demolab.com?user=newtonfrank&theme=radical&hide_border=true" height="180" alt="streak graph" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newtonfrank&theme=dark&hide_border=true&layout=compact" height="180" alt="languages graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=newtonfrank&theme=radical&utcOffset=8" alt="productive time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=newtonfrank&theme=radical" alt="repos per language" />
 </div>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=newtonfrank&label=Profile%20Views&color=0e75b6&style=flat)
 
 ### 🏆 Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=newtonfrank&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </div>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=newtonfrank&label=Profile%20Views&color=0e75b6&style=flat)
 
 ### 🔝 Top Contributions
 <div align="center">
