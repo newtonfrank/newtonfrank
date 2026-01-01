@@ -100,6 +100,8 @@ I am a developer who loves building high-performance web platforms and blockchai
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newtonfrank&theme=dark&hide_border=true&layout=compact" height="180" alt="languages graph" />
 </div>
 
+![Visitor Count](https://komarev.com/ghpvc/?username=newtonfrank&label=Profile%20Views&color=0e75b6&style=flat)
+
 ### 🏆 Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=newtonfrank&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
