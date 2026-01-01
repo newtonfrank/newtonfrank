@@ -33,7 +33,7 @@
 
 I am a developer who loves building high-performance web platforms and blockchain-powered systems. I specialize in the React ecosystem, real-time data visualization, and creative development.
 
-- 🔭 **Currently working on:** Scalable web apps & blockchain solutions for healthcare (SmartChakra).
+- 🔭 **Currently working on:** Scalable web apps & EduTech solutions for Bitnote.
 - 🌱 **Currently learning:** DevOps (Kubernetes, Docker), AWS Cloud Architecture & MLOps.
 - 👯 **Looking to collaborate on:** Open-source projects in React, Node.js, or Blockchain.
 - ⚡ **Interests:** WebGL, Three.js, and emerging Web3 technologies.
