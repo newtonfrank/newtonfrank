@@ -95,8 +95,8 @@ I am a developer who loves building high-performance web platforms and blockchai
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=newtonfrank&theme=radical" alt="profile details" />
 
   <br><br>
-
-  <img src="https://streak-stats.demolab.com?user=newtonfrank&theme=radical&hide_border=true" height="180" alt="streak graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=newtonfrank&theme=radical&hide_border=true" height="180" alt="streak graph" />
 
 </div>
 
