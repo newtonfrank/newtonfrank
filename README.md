@@ -91,19 +91,16 @@ I am a developer who loves building high-performance web platforms and blockchai
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=newtonfrank&theme=highcontrast&hide_border=true" alt="Newton Frank Streak" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api?username=newtonfrank&theme=highcontrast&hide_border=true&show_icons=true&count_private=true" alt="Newton Frank Stats" height="175" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=newtonfrank&theme=radical" alt="profile details" />
+
+  <br><br>
+  
+<div>
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=newtonfrank&theme=react" width="51%" />
+  <img align="center" src="https://github-readme-stats-matin.vercel.app/api?username=newtonfrank&layout=compact&show_icons=true&theme=react" alt="Newton Frank github-readme-stats" width="48%" />
 </div>
-
 <br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newtonfrank&theme=highcontrast&hide_border=true&layout=compact" alt="Newton Frank Top Langs" height="175" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=newtonfrank&theme=react-dark" alt="Newton Frank Activity Graph" height="175" />
-</div>
-<br />
-
-
 <div>
   <img align="center" src="https://github-readme-stats-matin.vercel.app/api/top-langs/?username=newtonfrank&layout=compact&theme=react" alt="Newton Frank github readme top-langs" width="39%" />
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=newtonfrank&theme=merko" alt="Newton Frank github readme activity graph" width="60%" />
