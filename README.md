@@ -5,7 +5,7 @@
 ### Computer Science Undergrad | Full-Stack Engineer
 *Building digital experiences with a focus on motion, interaction, and performance.*
 
-[![](https://visitcount.itsvg.in/api?id=newtonfrank&icon=0&color=0)](https://visitcount.itsvg.in)
+![Visitor Count](https://komarev.com/ghpvc/?username=newtonfrank&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
@@ -109,8 +109,6 @@ I am a developer who loves building high-performance web platforms and blockchai
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=newtonfrank&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </div>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=newtonfrank&label=Profile%20Views&color=0e75b6&style=flat)
 
 ### 🔝 Top Contributions
 <div align="center">
