@@ -92,31 +92,30 @@ I am a developer who loves building high-performance web platforms and blockchai
 
 <div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=newtonfrank&theme=radical" alt="profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=newtonfrank&theme=algolia" alt="profile details" />
 
   <br><br>
   
-<div>
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=newtonfrank&theme=react" width="51%" />
-  <img align="center" src="https://github-readme-stats-matin.vercel.app/api?username=newtonfrank&layout=compact&show_icons=true&theme=react" alt="Newton Frank github-readme-stats" width="48%" />
-</div>
-<br />
-<div>
-  <img align="center" src="https://github-readme-stats-matin.vercel.app/api/top-langs/?username=newtonfrank&layout=compact&theme=react" alt="Newton Frank github readme top-langs" width="39%" />
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=newtonfrank&theme=merko" alt="Newton Frank github readme activity graph" width="60%" />
-</div>
-<br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=newtonfrank&theme=highcontrast&hide_border=true" alt="Newton Frank Streak" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api?username=newtonfrank&theme=highcontrast&hide_border=true&show_icons=true&count_private=true" alt="Newton Frank Stats" height="175" />
+  
+  <br />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newtonfrank&theme=highcontrast&hide_border=true&layout=compact" alt="Newton Frank Top Langs" height="175" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=newtonfrank&theme=react-dark" alt="Newton Frank Activity Graph" height="175" />
 
 </div>
+
+<br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=newtonfrank&theme=radical&utcOffset=8" alt="productive time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=newtonfrank&theme=radical" alt="repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=newtonfrank&theme=algolia&utcOffset=8" alt="productive time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=newtonfrank&theme=algolia" alt="repos per language" />
 </div>
 
 ### 🏆 Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=newtonfrank&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=newtonfrank&theme=algolia&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 ### 🔝 Top Contributions
