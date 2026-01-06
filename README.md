@@ -96,7 +96,16 @@ I am a developer who loves building high-performance web platforms and blockchai
 
   <br><br>
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=newtonfrank&theme=highcontrast)](https://git.io/streak-stats)
+<div>
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=newtonfrank&theme=react" width="51%" />
+  <img align="center" src="https://github-readme-stats-matin.vercel.app/api?username=newtonfrank&layout=compact&show_icons=true&theme=react" alt="Newton Frank github-readme-stats" width="48%" />
+</div>
+<br />
+<div>
+  <img align="center" src="https://github-readme-stats-matin.vercel.app/api/top-langs/?username=newtonfrank&layout=compact&theme=react" alt="Newton Frank github readme top-langs" width="39%" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=newtonfrank&theme=merko" alt="Newton Frank github readme activity graph" width="60%" />
+</div>
+<br />
 
 </div>
 
