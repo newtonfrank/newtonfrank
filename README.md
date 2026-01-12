@@ -124,6 +124,7 @@ I am a developer who loves building high-performance web platforms and blockchai
 <img src="https://github-contributor-stats.vercel.app/api?username=newtonfrank&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true" />
 </div>
 
+ 
 ---
 
 <div align="center">
