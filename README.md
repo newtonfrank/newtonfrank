@@ -1,136 +1,94 @@
 <div align="center">
 
-# 👋 Hi, I’m Newton Frank
+# Newton Frank
 
-### Computer Science Undergrad | Full-Stack Engineer
-*Building digital experiences with a focus on motion, interaction, and performance.*
+**Computer Science Undergrad · Full-Stack Engineer**
 
-![Visitor Count](https://komarev.com/ghpvc/?username=newtonfrank&label=Profile%20Views&color=0e75b6&style=flat)
+Full-stack web, developer tooling, and systems-level side quests.
 
----
-
-<a href="https://linkedin.com/in/newtonfrank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://newtonfrank.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
-<a href="https://bsky.app/profile/newtonfrank.bsky.social">
-  <img src="https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF" />
+<a href="https://linkedin.com/in/newtonfrank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDU0QzIzLjIwMyAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMjAzIDAgMjIuMjI1IDB6Ii8+PC9zdmc+&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://x.com/newtonfrank22">
-  <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" />
+  <img src="https://img.shields.io/badge/X-24292F?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
-<a href="mailto:newtonfrank@outlook.in">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://bsky.app/profile/newtonfrank.bsky.social">
+  <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" />
 </a>
 <a href="https://behance.net/newtonfrank">
-  <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" />
+  <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+</a>
+<a href="mailto:newtonfrank@outlook.in">
+  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0yMCA0SDRhMiAyIDAgMDAtMiAydjEyYTIgMiAwIDAwMiAyaDE2YTIgMiAwIDAwMi0yVjZhMiAyIDAgMDAtMi0yem0wIDRsLTggNS04LTVWNmw4IDUgOC01eiIvPjwvc3ZnPg==&logoColor=white" alt="Email" />
 </a>
 
 </div>
 
 ---
 
-### 💫 About Me
+## About
 
-I am a developer who loves building high-performance web platforms and blockchain-powered systems. I specialize in the React ecosystem, real-time data visualization, and creative development.
+I build high-performance web platforms, and I like problems where correctness is hard to see — distributed state, storage layers, and the tooling around them.
 
-- 🔭 **Currently working on:** Scalable web apps & EduTech solutions for Bitnote.
-- 🌱 **Currently learning:** DevOps (Kubernetes, Docker), AWS Cloud Architecture & MLOps.
-- 👯 **Looking to collaborate on:** Open-source projects in React, Node.js, or Blockchain.
-- ⚡ **Interests:** WebGL, Three.js, and emerging Web3 technologies.
-- 💬 **Ask me about:** C/C++, Python, React, Next.js, Cloud, or System Design.
+- **Currently building:** scalable web apps and EduTech solutions at Bitnote, plus a local-first sync engine in Rust.
+- **Currently learning:** Kubernetes, cloud architecture, and distributed systems.
+- **Ask me about:** TypeScript, React/Next.js, Python, Rust, or system design.
 
----
+## Featured Projects
 
-### 💻 Tech Stack
+| Project | What it is |
+| :--- | :--- |
+| **[sync-core](https://github.com/newtonfrank/sync-core)** | Local-first CRDT sync engine. Rust core compiled to both native and `wasm32`, an append-only log with per-record CRC32C, and a seeded deterministic simulator that replays convergence bugs byte-for-byte. |
+| **[unipix](https://github.com/newtonfrank/unipix)** · [Live&nbsp;↗](https://unipix-newton.vercel.app) | Multi-source image search across Unsplash, Pexels and Pixabay — parallel provider queries, interleaved results, full attribution, no rehosting. Next.js App Router + TypeScript. |
+| **[Portfolio](https://github.com/newtonfrank/newton-portfolio-v1)** · [Live&nbsp;↗](https://newtonfrank.vercel.app) | Personal site — React and Next.js with Framer Motion transitions and a persisted dark/light theme. |
+| **[webpify](https://github.com/newtonfrank/webpify)** | CLI that converts image trees to optimized WebP in parallel, with atomic writes and error handling built for CI/CD pipelines. Python + Pillow. |
+| **[Bug Bounty Scanner](https://github.com/newtonfrank/Bug-Bounty-Vulnerability-Scanner)** | Multi-threaded recon and vulnerability scanner — subdomain enumeration, port scanning, tech detection, and SQLi/XSS/header checks with JSON and text reporting. Modular by design. |
+| **[Nmap Vuln Scanner](https://github.com/newtonfrank/automated-Nmap-vulnerability-scanner)** | Automates Nmap NSE vulnerability scans, parses the XML output, flags MS17-010, and emits a pre-populated Metasploit resource script for manual follow-up. |
+
+> Security tooling above is for authorized testing and education only.
+
+## Tech Stack
 
 <div align="center">
 
-#### **Languages**
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-#### **Frontend & UI**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat-square&logo=chart.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
-#### **Backend & Database**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0xOS4zNSAxMC4wNEE3LjQ5IDcuNDkgMCAwMDEyIDRDOS4xMSA0IDYuNiA1LjY0IDUuMzUgOC4wNEE1Ljk5NCA1Ljk5NCAwIDAwMCAxNGMwIDMuMzEgMi42OSA2IDYgNmgxM2MyLjc2IDAgNS0yLjI0IDUtNSAwLTIuNjQtMi4wNS00Ljc4LTQuNjUtNC45NnoiLz48L3N2Zz4=&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
 
-#### **Cloud & Tools**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+</div>
 
-#### **Design**
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
+## GitHub Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-matin.vercel.app/api?username=newtonfrank&show_icons=true&hide_border=true&count_private=true&theme=dark&bg_color=00000000" />
+  <img src="https://github-readme-stats-matin.vercel.app/api?username=newtonfrank&show_icons=true&hide_border=true&count_private=true&bg_color=00000000" alt="Newton Frank's GitHub statistics" width="60%" />
+</picture>
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
-
 <div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=newtonfrank&theme=dark&hide_border=true" alt="profile details" />
+**Open to internship and full-time software engineering roles.**
 
-  <br><br>
-  
-<div>
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=newtonfrank&theme=dark&hide_border=true" width="51%" />
-  <img align="center" src="https://github-readme-stats-matin.vercel.app/api?username=newtonfrank&theme=dark&hide_border=true&show_icons=true&count_private=true" alt="Newton Frank github-readme-stats" width="48%" />
-</div>
-<br />
-<div>
-  <img align="center" src="https://github-readme-stats-matin.vercel.app/api/top-langs/?username=newtonfrank&layout=compact&theme=dark&hide_border=true" alt="Newton Frank github readme top-langs" width="39%" />
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=newtonfrank&theme=dark&hide_border=true" alt="Newton Frank github readme activity graph" width="60%" />
-</div>
-<br />
+Reach me at [newtonfrank@outlook.in](mailto:newtonfrank@outlook.in)
 
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=newtonfrank&theme=dark&hide_border=true&utcOffset=8" alt="productive time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=newtonfrank&theme=dark&hide_border=true" alt="repos per language" />
-</div>
-
-### 🏆 Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=newtonfrank&theme=dark&hide_border=true&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
-### 🔝 Top Contributions
-<div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=newtonfrank&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true" />
-</div>
-
- 
----
-
-<div align="center">
-  
-<br>
- 
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/newtonfrank)
-   
 </div>
